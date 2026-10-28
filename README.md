@@ -6,6 +6,8 @@ Página publicada: https://yimeroliverosmuneton-wq.github.io/bellacristalshop/
 
 Tienda para clientas (sin cuenta): https://yimeroliverosmuneton-wq.github.io/bellacristalshop/tienda.html
 
+Editor de automatizaciones tipo n8n, hecho en React: https://yimeroliverosmuneton-wq.github.io/bellacristalshop/flujos/ (ver [n8n-react/README.md](n8n-react/README.md)).
+
 Cada persona crea su cuenta e inicia sesión; la información queda guardada en su cuenta. Para guardar las cuentas en la nube y entrar desde cualquier dispositivo, siga [FIREBASE.md](FIREBASE.md).
 
 ## Qué calcula

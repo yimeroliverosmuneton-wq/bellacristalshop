@@ -1,0 +1,20 @@
+{
+  "name": "flujos-n8n-react",
+  "version": "1.0.0",
+  "description": "Editor de automatizaciones tipo n8n hecho en React",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  },
+  "private": true,
+  "type": "module"
+}
